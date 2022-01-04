@@ -37,7 +37,7 @@ h2 {
 .drime-big {
   background-image: url(images/dream-bg.png);
   background-repeat: no-repeat;
-  background-position: right center;
+  background-position: right;
 }
 
 .experience-area {
@@ -47,10 +47,10 @@ h2 {
 }
 .experience-item {
   width: 40%;
-  border-radius: 10px;
   margin-left: 5%;
   margin-right: 5%;
   padding-left: 20px;
+  border-radius: 10px;
   box-shadow: 10px 10px 40px gray;
 }
 #full-stack-experience {
